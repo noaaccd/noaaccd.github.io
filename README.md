@@ -1,5 +1,7 @@
 # NOAA Comparative Climatic Data
 
+![noaa logo](logo_noaa.png)
+
 This data was gathered from https://www.ncdc.noaa.gov/ghcn/comparative-climatic-data
 
 The Comparative Climatic Data (CCD-2018) tables of meteorological elements outline the climate conditions at major U.S. weather observing stations, Puerto Rico, and the Pacific Islands. Observing sites presently in use as well as former sites with comparable exposure provide these data. The tables of observed data omit stations that have less than three years of data for the current operating site. The Normals, Means, and Extremes table contained in the Local Climatological Data Annual Summary for individual stations is in this publication.
