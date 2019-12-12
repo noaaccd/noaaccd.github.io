@@ -8,28 +8,28 @@ The Comparative Climatic Data (CCD-2018) tables of meteorological elements outli
 
 The stations list is alphabetically by state. The table arrangement is so a single table of the same element allows the user to compare the values for different locations. Some elements will not be in the table for weather stations that do not regularly report that element. Asterisks (*) denote average frequency of occurrence greater than zero but smaller than one-half.
 
-Temperature - Highest of Record, °F  
-Temperature - Lowest of Record, °F  
-Mean Number of Days Maximum Temperature 90°F or Higher  
-Mean Number of Days Minimum Temperature 32°F or Less  
-Mean Number of Days with Precipitation 0.01 Inch or More  
-Snowfall (Including Ice Pellets and Sleet) - Average Total in Inches  
-Wind - Average Speed (MPH)  
-Wind - Maximum Speed (MPH)  
-Sunshine - Average Percent of Possible  
-Sunshine - Average Percent of Possible (Cities Listed by Ranking Most to Least)  
-Cloudiness - Mean Number of Days (Clear, Partly Cloudy, Cloudy)  
-Average Relative Humidity - Morning (M), Afternoon (A)  
+[Temperature - Highest of Record, °F](hghtmp18.dat)  
+[Temperature - Lowest of Record, °F](lowtmp18.dat)  
+[Mean Number of Days Maximum Temperature 90°F or Higher](mxge9018.dat)  
+[Mean Number of Days Minimum Temperature 32°F or Less](mnls3218.dat)
+[Mean Number of Days with Precipitation 0.01 Inch or More](prge0118.dat)  
+[Snowfall (Including Ice Pellets and Sleet) - Average Total in Inches](avgsnf18.dat)  
+[Wind - Average Speed (MPH)](wndspd18.dat)  
+[Wind - Maximum Speed (MPH)](maxwnd18.dat)  
+[Sunshine - Average Percent of Possible](pctpos18.dat)  
+[Sunshine - Average Percent of Possible (Cities Listed by Ranking Most to Least)](pctposrank.txt)  
+[Cloudiness - Mean Number of Days (Clear, Partly Cloudy, Cloudy)](clpcdy18.dat)  
+[Average Relative Humidity - Morning (M), Afternoon (A)](relhum18.dat)  
 
 ### Climate Normals
 Note: The tables below contain the new 1981–2010 Normals data.
 
-Normal Daily Maximum Temperature, °F  
-Normal Daily Minimum Temperature, °F  
-Normal Daily Mean Temperature,°F  
-Normal Heating Degree Days (July–June) Base 65 °F  
-Normal Cooling Degree Days (January–December) Base 65 °F  
-Normal Precipitation, Inches  
+[Normal Daily Maximum Temperature, °F](nrmmax.txt)  
+[Normal Daily Minimum Temperature, °F](nrmmin.txt)  
+[Normal Daily Mean Temperature,°F](nrmavg.txt)  
+[Normal Heating Degree Days (July–June) Base 65 °F](nrmhdd.txt)  
+[Normal Cooling Degree Days (January–December) Base 65 °F](nrmcdd.txt)  
+[Normal Precipitation, Inches](nrmpcp.txt)  
 
 ### Table Notes
 The following gives a full explanation of all symbols and caveats used to explain the values in the above data tables.
